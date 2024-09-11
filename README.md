@@ -4,7 +4,7 @@
 
 # Hello! azars!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Yusep Muhamad Zazuli and I'm a Scrapper Engineer and Backend. I'm from Indonesia, living in Bandung.
+My name is Yusep Muhamad Zazuli and I'm a Scrapper Engineer and Data Engineer. I'm from Indonesia, living in Bandung.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=DF39BC)

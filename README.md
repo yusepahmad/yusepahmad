@@ -1,35 +1,73 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+[![Header](https://raw.githubusercontent.com/yusepahmad/img/main/bannergit.png)](https://github.com/yusepahmad)
 
-[![Header](https://raw.githubusercontent.com/yusepahmad/img/main/bannergit.png)](https://martinheinz.dev/)
+# Hi, I'm Yusep Muhamad Zazuli 👋
 
-# Hello! azars!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+**Data Engineer | Data Acquisition & Data Pipeline Specialist**
 
-My name is Yusep Muhamad Zazuli and I'm a Scrapper Engineer and Data Engineer. I'm from Indonesia, living in Bandung.
+I design and build data systems that ingest, process, and transform large-scale data from web platforms and external sources into reliable, analytics-ready datasets.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=DF39BC)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=DF39BC)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=DF39BC)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=DF39BC)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=DF39BC)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=DF39BC)
+My background in external data acquisition allows me to work effectively with complex and unreliable data sources, focusing on scalability, automation, and data reliability.
 
-<!-- icons with padding -->
+---
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+## 🚀 What I Do
 
-<!-- icons without padding -->
+- Build **data ingestion pipelines** for external and web-based data sources  
+- Design **ETL workflows** for structured and semi-structured datasets  
+- Develop **API-driven data services** using Python  
+- Handle **high-volume data collection** with streaming and batch processing  
+- Improve pipeline stability through automation, validation, and retry strategies  
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+---
 
+## 🧠 Engineering Focus
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+- Scalable data acquisition systems  
+- Resilient ingestion pipelines  
+- Streaming & batch data processing  
+- Data reliability and idempotent workflows  
+- Automation and workflow orchestration  
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Backend
+![Python](https://img.shields.io/badge/Python-Data%20Engineering-informational?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-API%20Services-informational?style=flat&logo=fastapi&logoColor=white)
+
+### Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Search-informational?style=flat&logo=elasticsearch&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-Streaming-informational?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Queue%20%26%20Cache-informational?style=flat&logo=redis&logoColor=white)
+
+### DevOps & Environment
+![Linux](https://img.shields.io/badge/Linux-Environment-informational?style=flat&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-informational?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-informational?style=flat&logo=kubernetes&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-informational?style=flat&logo=gnubash&logoColor=white)
+
+---
+
+## 📊 Areas of Interest
+
+- Data Engineering & Data Platforms  
+- External Data Acquisition  
+- Streaming Data Systems  
+- Distributed Data Processing  
+- Scalable Backend & Data APIs  
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/yusep-muhamad-zazuli-a2a91b301
+- 🌏 Based in Indonesia (Bandung Area)
+
+---
+
+## ⚡ Philosophy
+
+> Reliable data pipelines are not only about collecting data —  
+> they are about delivering trustworthy data for decision making.

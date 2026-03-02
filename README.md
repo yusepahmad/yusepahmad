@@ -14,25 +14,6 @@ My name is Yusep Muhamad Zazuli and I'm a Scrapper Engineer and Data Engineer. I
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=DF39BC)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=DF39BC)
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/yusepahmad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yusepahmad&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=DF39BC&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-## Leguange
-
-<a href="https://github.com/yusepahmad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusepahmad&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=DF39BC&bg_color=1d1f21&langs_count=3" />
-</a>
-
-## Top Reposiroties
-<a href="https://github.com/yusepahmad/fastapi-async-and-sync-send-bot-telegram.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yusepahmad&repo=fastapi-async-and-sync-send-bot-telegram&title_color=ffffff&text_color=c9cacc&icon_color=DF39BC&bg_color=1d1f21" />
-</a>
-
-<!-- links to social media icons -->
-
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)

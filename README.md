@@ -27,12 +27,9 @@ My name is Yusep Muhamad Zazuli and I'm a Scrapper Engineer and Data Engineer. I
 </a>
 
 ## Top Reposiroties
-<a href="https://github.com/yusepahmad/Service-tiket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yusepahmad&repo=Service-tiket&title_color=ffffff&text_color=c9cacc&icon_color=DF39BC&bg_color=1d1f21" />
+<a href="https://github.com/yusepahmad/fastapi-async-and-sync-send-bot-telegram.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yusepahmad&repo=fastapi-async-and-sync-send-bot-telegram&title_color=ffffff&text_color=c9cacc&icon_color=DF39BC&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/yusepahmad/FastAPI-BI-Crawl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yusepahmad&repo=FastAPI-BI-Crawl&title_color=ffffff&text_color=c9cacc&icon_color=DF39BC&bg_color=1d1f21" />
-</a>    
 
 <!-- links to social media icons -->
 

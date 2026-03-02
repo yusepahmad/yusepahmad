@@ -1,73 +1,95 @@
 [![Header](https://raw.githubusercontent.com/yusepahmad/img/main/bannergit.png)](https://github.com/yusepahmad)
 
 # Hi, I'm Yusep Muhamad Zazuli 👋
+### Data Engineer | Data Acquisition & Data Pipeline Specialist
 
-**Data Engineer | Data Acquisition & Data Pipeline Specialist**
+I design and build reliable data systems that ingest, process, and transform large-scale external data into analytics-ready datasets.
 
-I design and build data systems that ingest, process, and transform large-scale data from web platforms and external sources into reliable, analytics-ready datasets.
-
-My background in external data acquisition allows me to work effectively with complex and unreliable data sources, focusing on scalability, automation, and data reliability.
-
----
-
-## 🚀 What I Do
-
-- Build **data ingestion pipelines** for external and web-based data sources  
-- Design **ETL workflows** for structured and semi-structured datasets  
-- Develop **API-driven data services** using Python  
-- Handle **high-volume data collection** with streaming and batch processing  
-- Improve pipeline stability through automation, validation, and retry strategies  
+My expertise lies in handling complex and unreliable data sources — building resilient ingestion pipelines, scalable ETL workflows, and automation systems that ensure data reliability for downstream analytics and decision-making.
 
 ---
 
-## 🧠 Engineering Focus
+## 🚀 What I Build
 
-- Scalable data acquisition systems  
-- Resilient ingestion pipelines  
-- Streaming & batch data processing  
-- Data reliability and idempotent workflows  
-- Automation and workflow orchestration  
+- Scalable **data ingestion pipelines** from web platforms and external APIs
+- Automated **ETL workflows** for structured & semi-structured data
+- Streaming and batch data processing systems
+- API-driven data services for internal data platforms
+- Reliable data workflows with validation, retry, and monitoring strategies
+
+---
+
+## 🧠 Engineering Approach
+
+I focus on building data systems that are:
+
+- **Resilient** → pipelines recover safely from failures
+- **Idempotent** → safe reprocessing without data corruption
+- **Scalable** → designed for growing data volume
+- **Observable** → easy to monitor and debug
+- **Automation-first** → minimal manual intervention
+
+---
+
+## 🏗 Typical Data Flow I Work With
+
+```
+
+External Sources
+↓
+Data Acquisition / Crawlers
+↓
+Queue / Streaming Layer (Kafka / Redis)
+↓
+Raw Storage
+↓
+ETL & Transformation
+↓
+Analytics / Data Services
+
+```
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages & Backend
+### Languages & APIs
 ![Python](https://img.shields.io/badge/Python-Data%20Engineering-informational?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-API%20Services-informational?style=flat&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend%20API-informational?style=flat&logo=fastapi&logoColor=white)
 
-### Data & Infrastructure
+### Data & Streaming
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Search-informational?style=flat&logo=elasticsearch&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-Streaming-informational?style=flat&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-Queue%20%26%20Cache-informational?style=flat&logo=redis&logoColor=white)
 
-### DevOps & Environment
+### Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-Environment-informational?style=flat&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-informational?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-informational?style=flat&logo=kubernetes&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Scripting-informational?style=flat&logo=gnubash&logoColor=white)
 
 ---
 
 ## 📊 Areas of Interest
 
-- Data Engineering & Data Platforms  
-- External Data Acquisition  
-- Streaming Data Systems  
-- Distributed Data Processing  
-- Scalable Backend & Data APIs  
+- Data Engineering & Data Platforms
+- External Data Acquisition
+- Streaming Data Systems
+- Distributed Data Processing
+- Data Reliability Engineering
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/yusep-muhamad-zazuli-a2a91b301
-- 🌏 Based in Indonesia (Bandung Area)
+💼 LinkedIn  
+https://linkedin.com/in/yusep-muhamad-zazuli-a2a91b301
+
+🌏 Bandung, Indonesia
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Engineering Philosophy
 
-> Reliable data pipelines are not only about collecting data —  
-> they are about delivering trustworthy data for decision making.
+> Good data engineering is not only about moving data —
+> it is about building systems that make data trustworthy.
